@@ -35,6 +35,24 @@ Here’s a curated list of top-quality resources that align perfectly with the c
 
 ---
 
+## 💡 Tips for OPPE & COURSE Success
+
+The **OPPE exam is tough** – many students struggle, and a large number end up getting a grade of ‘U’. But don’t worry, with the **right preparation strategy**, you can crack it confidently.
+
+Here are some tips that helped me and could help you too:
+
+- 🔁 **Practice is everything** – GRPA and OPPE questions often test logic and edge cases. Practice **previous year questions** (PYQs), and don't just read—**code it out**.
+- 📂 Explore the `oppe/` and `Week XX/` folders in this repo for real practice problems.
+- ⚔️ **Simulate OPPE conditions** – time yourself, avoid distractions, and try solving under pressure.
+- 💻 **Hackerrank & beyond** – Use platforms like [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-python) to practice structured Python problems and build your logic for exam and interview scenarios.
+- 🛠️ Learn by doing – Use [Automate the Boring Stuff](https://automatetheboringstuff.com/) to apply Python in real-life tasks like file handling, data scraping, and automation. It makes learning way more fun and practical.
+- 🚀 Don’t just solve – **explore “why” it works**. The better you understand the "why", the better you'll perform in unexpected questions.
+
+> 📌 **Consistency over cramming** – Daily practice, even in small amounts, beats last-minute rushing. Turn solving problems into a habit.
+
+Stay curious. Stay ethical. And don’t be afraid to fail—that’s where the best learning happens.
+
+
 ## 📁 Repository Structure
 
 ```bash
